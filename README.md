@@ -27,16 +27,12 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
            9. Произвел регрессионное тестирование.
            9. Написал отчет о тестировании.
 
-Ссылка на проект (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-
-логин: dehico8286@fsouda.com
-
-пароль: 16Jan2023
-
-Выводы (итоги):
-
-Итог №1
-Итог №2
+![image](https://github.com/SPank8/-/assets/139362224/783d194a-d914-4757-9192-43b6d1f7b79c)
+![image](https://github.com/SPank8/-/assets/139362224/05617955-6dd6-468e-9d63-5c4124ebfbc3)
+![image](https://github.com/SPank8/-/assets/139362224/0e9db385-b756-49d4-903c-45d74b0832c2)
+![image](https://github.com/SPank8/-/assets/139362224/1046f8ea-0dba-4dec-b17b-4f8d92c77266)
+![image](https://github.com/SPank8/-/assets/139362224/2277ff64-c2d1-435b-aee1-a541343f4968)
+![image](https://github.com/SPank8/-/assets/139362224/a329a877-b54d-4ca5-ad2a-dc31c4a2f7fc)
 
 Проект 2: тест кабинета учителя в приложении Skyeng
 
