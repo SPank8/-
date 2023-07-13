@@ -1,4 +1,4 @@
-# Портфолио: Инженер по тестированию
+[события-export.xls](https://github.com/SPank8/-/files/12039881/-export.xls)# Портфолио: Инженер по тестированию
 ## Обо мне
 Привет! Меня зовут Сергей, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
@@ -26,19 +26,13 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
            8. Завел баг-репорты.
            9. Произвел регрессионное тестирование.
            9. Написал отчет о тестировании.
-
-![image](https://github.com/SPank8/-/assets/139362224/783d194a-d914-4757-9192-43b6d1f7b79c)
-![image](https://github.com/SPank8/-/assets/139362224/05617955-6dd6-468e-9d63-5c4124ebfbc3)
-![image](https://github.com/SPank8/-/assets/139362224/0e9db385-b756-49d4-903c-45d74b0832c2)
-![image](https://github.com/SPank8/-/assets/139362224/1046f8ea-0dba-4dec-b17b-4f8d92c77266)
-![image](https://github.com/SPank8/-/assets/139362224/2277ff64-c2d1-435b-aee1-a541343f4968)
-![image](https://github.com/SPank8/-/assets/139362224/a329a877-b54d-4ca5-ad2a-dc31c4a2f7fc)
-![image](https://github.com/SPank8/-/assets/139362224/d2834210-f1e8-462c-9d16-89640e939009)
-![image](https://github.com/SPank8/-/assets/139362224/d90c1ceb-16fd-4bfe-b60d-e4c8925af2aa)
-![image](https://github.com/SPank8/-/assets/139362224/c3098dd7-68c9-417c-934f-8688ddc1702e)
-
-
-
+-Тест план:
+[11-Тест-план-130723-130131.pdf](https://github.com/SPank8/-/files/12039866/11-.-.-130723-130131.pdf)
+-Тест-кейсы:
+[TP-2023-07-13.pdf](https://github.com/SPank8/-/files/12039873/TP-2023-07-13.pdf)
+-Чек-листы:
+[события-export.xls](https://github.com/SPank8/-/files/12039887/-export.xls)
+[итогового проекта-export.xls](https://github.com/SPank8/-/files/12039889/-export.xls)
 
 Проект 2: тест кабинета учителя в приложении Skyeng
 
@@ -52,9 +46,10 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
             2. На основе ранее созданного чек-листа создал тест кейсы в qase.io.
             3. Создал в Postman запросы соответсвующие тест кейсам.
             4. Запустил коллекцию, проанализировал результаты.
-
-![image](https://github.com/SPank8/-/assets/139362224/5075f959-a7df-4d3b-b1fa-5ba22b33f94f)
-![image](https://github.com/SPank8/-/assets/139362224/c9b4b6a5-47cd-4491-a19d-ac8281f198c6)
+-Тест-кейсы:
+[TP-2023-07-13.pdf](https://github.com/SPank8/-/files/12039900/TP-2023-07-13.pdf)
+-Постман коллекция:
+https://drive.google.com/file/d/1kASPo56b-6RXQl74BY__Ri9y7wrhmorh/view?usp=drive_link
 
 Итоги проекта: Продукт “Портал для пользователей” не готов к выпуску.
 
