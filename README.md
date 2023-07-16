@@ -33,6 +33,9 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
 -Чек-листы:
 [события-export.xls](https://github.com/SPank8/-/files/12039887/-export.xls)
 [итогового проекта-export.xls](https://github.com/SPank8/-/files/12039889/-export.xls)
+-Баг-репорты Jira:
+[Jira.pdf](https://github.com/SPank8/-/files/12063626/Jira.pdf)
+
 
 Проект 2: тест кабинета учителя в приложении Skyeng
 
