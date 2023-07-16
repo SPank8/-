@@ -27,15 +27,14 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
            9. Произвел регрессионное тестирование.
            9. Написал отчет о тестировании.
 -Тест план:
-[11-Тест-план-130723-130131.pdf](https://github.com/SPank8/-/files/12039866/11-.-.-130723-130131.pdf)
+https://drive.google.com/file/d/1E5sxRVxwmnixZzUnwxOL3YjgPQkR1VC_/view?usp=sharing
 -Тест-кейсы:
-[TP-2023-07-13.pdf](https://github.com/SPank8/-/files/12039873/TP-2023-07-13.pdf)
+https://drive.google.com/file/d/1WdJ6T8QHBN4hV1dVu-0Mk2aC6CGmsjG9/view?usp=sharing
 -Чек-листы:
-[события-export.xls](https://github.com/SPank8/-/files/12039887/-export.xls)
-[итогового проекта-export.xls](https://github.com/SPank8/-/files/12039889/-export.xls)
+https://docs.google.com/spreadsheets/d/1CjwE1lytycX-DmoVR4KJmvbVnRMazv5J/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1YmAC0ASDORjrHgzCMWNF8Yey6rOuzIBV/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true
 -Баг-репорты Jira:
-[Jira.pdf](https://github.com/SPank8/-/files/12063626/Jira.pdf)
-
+https://drive.google.com/file/d/1mF2a_UfuI3BdKm6aGYdPc3vBw6vm3cRF/view?usp=sharing
 
 Проект 2: тест кабинета учителя в приложении Skyeng
 
@@ -50,7 +49,7 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
             3. Создал в Postman запросы соответсвующие тест кейсам.
             4. Запустил коллекцию, проанализировал результаты.
 -Тест-кейсы:
-[TP-2023-07-13.pdf](https://github.com/SPank8/-/files/12039900/TP-2023-07-13.pdf)
+https://drive.google.com/file/d/1WdJ6T8QHBN4hV1dVu-0Mk2aC6CGmsjG9/view?usp=sharing
 -Постман коллекция:
 https://drive.google.com/file/d/1kASPo56b-6RXQl74BY__Ri9y7wrhmorh/view?usp=drive_link
 
