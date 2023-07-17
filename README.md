@@ -28,7 +28,7 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
 <li>Произвел тестирование</li> 
 <li>Завел баг-репорты</li> 
 <li>Произвел регрессионное тестирование</li> 
-<li>Написал отчет о тестировании</li> 
+ <li>Написал отчет о тестировании</li> 
 </ol>
 
  - Тест план [ссылка](https://drive.google.com/file/d/1E5sxRVxwmnixZzUnwxOL3YjgPQkR1VC_/view?usp=sharing)
