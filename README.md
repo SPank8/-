@@ -55,6 +55,7 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
 - Тест-кейсы [ссылка](https://drive.google.com/file/d/1WdJ6T8QHBN4hV1dVu-0Mk2aC6CGmsjG9/view?usp=sharing)
 - Постман коллекция [ссылка](https://drive.google.com/file/d/1kASPo56b-6RXQl74BY__Ri9y7wrhmorh/view?usp=drive_link)
 
+
 Итоги проекта: Продукт “Портал для пользователей” не готов к выпуску.
 
 Для стабильной работы портала требуется исправление функции “Отменить урок”. При проведении регрессионного тестирования портала, я выяснил, что функция “Отменить урок” не работает. Можно лишь перенести урок на другое время.
