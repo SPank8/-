@@ -28,8 +28,7 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
 - Произвел регрессионное тестирование.
 - Написал отчет о тестировании.
 
-1. Тест план:
-https://drive.google.com/file/d/1E5sxRVxwmnixZzUnwxOL3YjgPQkR1VC_/view?usp=sharing
+1. Тест план [ссылка](https://drive.google.com/file/d/1E5sxRVxwmnixZzUnwxOL3YjgPQkR1VC_/view?usp=sharing)
 -Тест-кейсы:
 https://drive.google.com/file/d/1WdJ6T8QHBN4hV1dVu-0Mk2aC6CGmsjG9/view?usp=sharing
 -Чек-листы:
