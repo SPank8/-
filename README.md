@@ -18,22 +18,24 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
 <li>Задача №4. Написать отчет о результатах тестирования</li> 
 </ol>
 <p>Как решал:</p>
-- Ознакомился с требованиями к проеку.
-- Произвел анализ стейкхолдеров и создал приемочные тест-кейсы.
-- Произвел тестирование требований.
-- Составил декомпазицию продукта.
-- Составил функциональный чек-лист.
-- Составил тест-кейсы для smoke-тестирования.
-- Произвел тестирование.
-- Завел баг-репорты.
-- Произвел регрессионное тестирование.
-- Написал отчет о тестировании.
-
- Тест план [ссылка](https://drive.google.com/file/d/1E5sxRVxwmnixZzUnwxOL3YjgPQkR1VC_/view?usp=sharing)
- Тест-кейсы [ссылка](https://drive.google.com/file/d/1WdJ6T8QHBN4hV1dVu-0Mk2aC6CGmsjG9/view?usp=sharing)
- Чек-листы [ссылка](https://docs.google.com/spreadsheets/d/1CjwE1lytycX-DmoVR4KJmvbVnRMazv5J/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true), [ссылка](https://docs.google.com/spreadsheets/d/1YmAC0ASDORjrHgzCMWNF8Yey6rOuzIBV/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true)
- Баг-репорты Jira [ссылка](https://drive.google.com/file/d/1mF2a_UfuI3BdKm6aGYdPc3vBw6vm3cRF/view?usp=sharing)
-
+<ol>
+<li>Ознакомился с требованиями к проеку</li> 
+<li>Произвел анализ стейкхолдеров и создал приемочные тест-кейсы</li> 
+<li>Произвел тестирование требований</li> 
+<li>Составил декомпазицию продукта</li> 
+<li>Составил функциональный чек-лист</li> 
+<li>Составил тест-кейсы для smoke-тестирования</li> 
+<li>Произвел тестирование</li> 
+<li>Завел баг-репорты</li> 
+<li>Произвел регрессионное тестирование</li> 
+<li>Написал отчет о тестировании</li> 
+</ol>
+<ol>
+ <li>Тест план [ссылка](https://drive.google.com/file/d/1E5sxRVxwmnixZzUnwxOL3YjgPQkR1VC_/view?usp=sharing)</li> 
+ <li>Тест-кейсы [ссылка](https://drive.google.com/file/d/1WdJ6T8QHBN4hV1dVu-0Mk2aC6CGmsjG9/view?usp=sharing)</li> 
+ <li>Чек-листы [ссылка](https://docs.google.com/spreadsheets/d/1CjwE1lytycX-DmoVR4KJmvbVnRMazv5J/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true), [ссылка](https://docs.google.com/spreadsheets/d/1YmAC0ASDORjrHgzCMWNF8Yey6rOuzIBV/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true)</li> 
+ <li>Баг-репорты Jira [ссылка](https://drive.google.com/file/d/1mF2a_UfuI3BdKm6aGYdPc3vBw6vm3cRF/view?usp=sharing)</li> 
+</ol>
 Проект 2: тест кабинета учителя в приложении Skyeng
 
 Что нужно было сделать: Тестирование API функции "личное событие"
