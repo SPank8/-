@@ -11,11 +11,11 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
 Проект 1: тест веб-приложения для учителей от Skyeng
 
 <p>Что нужно было сделать:
-
 - Задача №1. Написать тест-план 
 - Задача №2. Подготовить тестовую документацию
 - Задача №3. Провести тестирование
 - Задача №4. Написать отчет о результатах тестирования
+
 <p>Как решал:
 - Ознакомился с требованиями к проеку.
 - Произвел анализ стейкхолдеров и создал приемочные тест-кейсы.
@@ -28,10 +28,10 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
 - Произвел регрессионное тестирование.
 - Написал отчет о тестировании.
 
- <p>Тест план [ссылка](https://drive.google.com/file/d/1E5sxRVxwmnixZzUnwxOL3YjgPQkR1VC_/view?usp=sharing)
- <p>Тест-кейсы [ссылка](https://drive.google.com/file/d/1WdJ6T8QHBN4hV1dVu-0Mk2aC6CGmsjG9/view?usp=sharing)
- <p>Чек-листы [ссылка](https://docs.google.com/spreadsheets/d/1CjwE1lytycX-DmoVR4KJmvbVnRMazv5J/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true), [ссылка](https://docs.google.com/spreadsheets/d/1YmAC0ASDORjrHgzCMWNF8Yey6rOuzIBV/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true)
- <p>Баг-репорты Jira [ссылка](https://drive.google.com/file/d/1mF2a_UfuI3BdKm6aGYdPc3vBw6vm3cRF/view?usp=sharing)
+ Тест план [ссылка](https://drive.google.com/file/d/1E5sxRVxwmnixZzUnwxOL3YjgPQkR1VC_/view?usp=sharing)
+ Тест-кейсы [ссылка](https://drive.google.com/file/d/1WdJ6T8QHBN4hV1dVu-0Mk2aC6CGmsjG9/view?usp=sharing)
+ Чек-листы [ссылка](https://docs.google.com/spreadsheets/d/1CjwE1lytycX-DmoVR4KJmvbVnRMazv5J/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true), [ссылка](https://docs.google.com/spreadsheets/d/1YmAC0ASDORjrHgzCMWNF8Yey6rOuzIBV/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true)
+ Баг-репорты Jira [ссылка](https://drive.google.com/file/d/1mF2a_UfuI3BdKm6aGYdPc3vBw6vm3cRF/view?usp=sharing)
 
 Проект 2: тест кабинета учителя в приложении Skyeng
 
