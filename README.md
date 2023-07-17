@@ -29,13 +29,9 @@ SoapUI, Android Studio, Charles, Git, Chrome DevTools.
 - Написал отчет о тестировании.
 
 1. Тест план [ссылка](https://drive.google.com/file/d/1E5sxRVxwmnixZzUnwxOL3YjgPQkR1VC_/view?usp=sharing)
--Тест-кейсы:
-https://drive.google.com/file/d/1WdJ6T8QHBN4hV1dVu-0Mk2aC6CGmsjG9/view?usp=sharing
--Чек-листы:
-https://docs.google.com/spreadsheets/d/1CjwE1lytycX-DmoVR4KJmvbVnRMazv5J/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true
-https://docs.google.com/spreadsheets/d/1YmAC0ASDORjrHgzCMWNF8Yey6rOuzIBV/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true
--Баг-репорты Jira:
-https://drive.google.com/file/d/1mF2a_UfuI3BdKm6aGYdPc3vBw6vm3cRF/view?usp=sharing
+-Тест-кейсы [ссылка](https://drive.google.com/file/d/1WdJ6T8QHBN4hV1dVu-0Mk2aC6CGmsjG9/view?usp=sharing)
+-Чек-листы [ссылка](https://docs.google.com/spreadsheets/d/1CjwE1lytycX-DmoVR4KJmvbVnRMazv5J/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true), [ссылка](https://docs.google.com/spreadsheets/d/1YmAC0ASDORjrHgzCMWNF8Yey6rOuzIBV/edit?usp=sharing&ouid=101741904213105894434&rtpof=true&sd=true)
+-Баг-репорты Jira [ссылка](https://drive.google.com/file/d/1mF2a_UfuI3BdKm6aGYdPc3vBw6vm3cRF/view?usp=sharing)
 
 Проект 2: тест кабинета учителя в приложении Skyeng
 
